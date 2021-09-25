@@ -48,3 +48,8 @@ Google set very low rate-limit on search pages and block any activity wich detec
 I really love open source community. It makes me proud to be a part of this community. So feel free to send any pull request or question in issues.
 
 Hope this Pantent_Crawler can help you :)
+
+
+# Donation
+Donation make developer of this project so happy and greatful :) So if patent crawler help you and want donate, here is my address on lightening network. You can donate bitcoin with less amount of fee :)
+mohammadanvary@lntxbot.com
