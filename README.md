@@ -51,5 +51,6 @@ Hope this Pantent_Crawler can help you :)
 
 
 # Donation
-Donation make developer of this project so happy and greatful :) So if patent crawler help you and want donate, here is my address on lightening network. You can donate bitcoin with less amount of fee :)
-mohammadanvary@lntxbot.com
+Donation make developer of this project so happy and greatful :) So if patent crawler help you and want donate, here is my address on lightning network. You can donate bitcoin with less amount of fee :)
+
+lightning : mohammadanvary@lntxbot.com
